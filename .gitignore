@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Entornos y secretos
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Datos locales o con restricciones: no versionar salvo autorización explícita
+datos/locales/
+datos/restringidos/
+*.parquet
+*.dta
+*.sav
+*.xlsx
+*.xls
+*.sqlite
+*.db
+
+# Salidas generadas; conservar en el repositorio solo si son parte de una publicación documentada
+salidas/
+*.log
+.DS_Store
