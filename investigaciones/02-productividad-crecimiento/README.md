@@ -1,84 +1,219 @@
 # Productividad y crecimiento económico
+## Determinantes del crecimiento, eficiencia productiva y desarrollo económico
 
-- **Autor:** Jaime Rehbein
-- **Área:** Economía e investigación aplicada
-- **País:** Chile
-- **Estado editorial:** Proyecto de investigación
-- **Versión:** Protocolo inicial; sin resultados
-- **Fuentes verificadas incorporadas:** No
+**Autor:** Jaime Rehbein  
+**Área:** Macroeconomía y economía aplicada  
+**Estado:** Proyecto de investigación en desarrollo  
+**Versión:** 0.1
 
-> Esta carpeta contiene la estructura inicial del proyecto. No se han incorporado fuentes, datos, resultados ni conclusiones. Los campos pendientes se completarán solo con antecedentes verificables.
+---
 
-## Pregunta de investigación
+## 1. Presentación
 
-Pendiente de formular y delimitar.
+Esta investigación tiene como propósito estudiar los determinantes del crecimiento económico y la evolución de la productividad, considerando el papel del capital, el trabajo, el capital humano, la innovación tecnológica y la eficiencia en la asignación de recursos.
 
-## Objetivos
+El crecimiento económico constituye uno de los principales objetos de estudio de la macroeconomía. Sin embargo, el aumento de la producción no depende exclusivamente de la acumulación de factores productivos, sino también de las mejoras tecnológicas, institucionales y organizacionales que permiten incrementar la producción con los recursos disponibles.
 
-### Objetivo general
+La investigación busca integrar fundamentos teóricos y herramientas cuantitativas para comprender las diferencias de crecimiento y productividad entre países, sectores económicos y territorios.
 
-Pendiente.
+## 2. Problema de investigación
 
-### Objetivos específicos
+Las economías presentan diferencias persistentes en sus niveles de productividad y en sus trayectorias de crecimiento económico.
 
-Pendientes.
+Estas diferencias pueden estar relacionadas con la acumulación de capital físico, la calidad del capital humano, el progreso tecnológico, la innovación, las instituciones, la estructura productiva y la eficiencia en la asignación de recursos.
 
-## Hipótesis
+Un desafío central consiste en identificar qué factores explican estas diferencias y en qué medida contribuyen al crecimiento de largo plazo.
 
-Pendiente de fundamentar en literatura verificable. No corresponde tratarla como resultado; si el diseño no requiere hipótesis, justificarlo aquí.
+## 3. Pregunta principal
 
-## Revisión de literatura
+¿Qué factores explican las diferencias en productividad y crecimiento económico entre países, sectores productivos y territorios?
 
-Pendiente. No se incorporan referencias hasta verificarlas en sus fuentes originales.
+## 4. Preguntas específicas
 
-## Marco teórico
+1. ¿Qué relación existe entre acumulación de capital y crecimiento económico?
+2. ¿Cuál es la contribución del capital humano a la productividad?
+3. ¿Qué papel desempeña el progreso tecnológico en el crecimiento de largo plazo?
+4. ¿Cómo influye la productividad total de los factores en el desempeño económico?
+5. ¿Qué relación existe entre inversión, innovación y productividad?
+6. ¿Cómo afectan las instituciones y la estructura productiva a la eficiencia económica?
+7. ¿Qué diferencias existen entre crecimiento basado en acumulación de factores y crecimiento basado en mejoras de productividad?
+8. ¿Cómo se manifiestan estas relaciones en la economía chilena?
 
-Pendiente de definir a partir de literatura académica y documentación verificadas.
+## 5. Objetivo general
 
-## Metodología
+Analizar los determinantes del crecimiento económico y de la productividad mediante fundamentos teóricos y herramientas cuantitativas, identificando la contribución de los factores productivos, el capital humano, la tecnología y la eficiencia económica.
 
-Pendiente de especificar: diseño, unidad de análisis, cobertura, estrategia de identificación o estimación, criterios de inclusión y tratamiento de datos faltantes.
+## 6. Objetivos específicos
 
-## Diccionario de variables
+- Examinar las principales teorías del crecimiento económico.
+- Estudiar la relación entre capital físico, trabajo y producción.
+- Analizar el papel del capital humano y la innovación.
+- Comprender el concepto y las limitaciones de la productividad total de los factores.
+- Examinar las diferencias de productividad entre sectores y economías.
+- Aplicar herramientas estadísticas y econométricas al estudio del crecimiento.
+- Estudiar la trayectoria de productividad y crecimiento de Chile.
+- Identificar implicancias para las políticas de desarrollo productivo.
 
-Plantilla disponible en [`diccionario-variables.csv`](diccionario-variables.csv). Se completará después de identificar las fuentes y variables observables; incluir `source_ids`, `evidence_ids` y localizador preciso de origen.
+## 7. Hipótesis de trabajo
 
-## Fuentes de información
+**H1.** La acumulación de capital físico y humano contribuye positivamente al crecimiento económico, aunque sus efectos dependen de la eficiencia con que se utilizan estos factores.
 
-Aún no hay fuentes verificadas para este proyecto. Toda fuente futura deberá registrarse en [`../../fuentes/registro_fuentes.csv`](../../fuentes/registro_fuentes.csv), incluyendo autor/institución, título, fecha, período, cobertura, URL/DOI, consulta, licencia y estado de verificación. Registrar página, tabla o sección de cada dato o afirmación en [`trazabilidad/evidencias.csv`](trazabilidad/evidencias.csv).
+**H2.** Las mejoras sostenidas de productividad constituyen un componente fundamental del crecimiento económico de largo plazo.
 
-## Análisis empírico
+**H3.** Las diferencias tecnológicas, institucionales y organizacionales contribuyen a explicar las brechas de productividad entre economías.
 
-No iniciado. No hay código, datos ni estimaciones. Si corresponde, el análisis se desarrollará en [`codigo/`](codigo/) y se documentará para su reproducción.
+**H4.** La composición sectorial y la asignación de recursos pueden influir significativamente en la productividad agregada.
 
-## Resultados
+Estas hipótesis son provisionales y requieren contrastación empírica.
 
-No hay resultados: el análisis empírico no se ha realizado.
+## 8. Marco teórico
 
-## Limitaciones
+La investigación considerará los siguientes enfoques:
 
-El proyecto está en etapa de estructura inicial. Pregunta, disponibilidad y calidad de datos, identificación metodológica y alcance de inferencia están pendientes de evaluación.
+### 8.1. Modelo neoclásico de crecimiento
 
-## Conclusiones
+- Modelo de Solow-Swan.
+- Acumulación de capital.
+- Crecimiento de la población.
+- Progreso tecnológico exógeno.
+- Estado estacionario.
+- Convergencia económica.
 
-No disponibles. No se presentan conclusiones antes de realizar y documentar el análisis.
+### 8.2. Teoría del crecimiento endógeno
 
-## Bibliografía
+- Modelo de Romer.
+- Capital humano y crecimiento.
+- Innovación y conocimiento.
+- Investigación y desarrollo.
+- Externalidades tecnológicas.
 
-Pendiente de referencias verificadas. Cada entrada bibliográfica deberá corresponder a un `source_id` del registro central y estar cotejada con el documento original. No agregar citas generadas o sugeridas que no se hayan confirmado.
+### 8.3. Productividad y eficiencia
 
-## Gráficos
+- Productividad laboral.
+- Productividad total de los factores.
+- Frontera de producción.
+- Eficiencia técnica y asignativa.
+- Cambio tecnológico.
 
-La carpeta [`graficos/`](graficos/) no contiene gráficos. Cada visualización futura deberá indicar fuente, período, unidad, metodología y notas aclaratorias.
+### 8.4. Enfoques complementarios
 
-## Documentos
+- Teoría schumpeteriana de la innovación.
+- Cambio estructural y transformación productiva.
+- Instituciones y crecimiento económico.
+- Asignación de recursos y productividad.
+- Geografía económica y desarrollo territorial.
 
-La carpeta [`documentos/`](documentos/) no contiene documentos. Incorporar únicamente originales con procedencia y condiciones de uso comprobadas.
+## 9. Dimensiones e indicadores
 
-## Código reproducible
+| Dimensión | Indicadores por investigar |
+|---|---|
+| Crecimiento | PIB real y PIB per cápita |
+| Capital | Formación bruta de capital fijo |
+| Trabajo | Empleo, horas trabajadas y participación |
+| Capital humano | Educación y formación |
+| Productividad | Productividad laboral y PTF |
+| Tecnología | Innovación, I+D y adopción tecnológica |
+| Estructura productiva | Participación sectorial y reasignación |
+| Instituciones | Indicadores institucionales comparables |
 
-Consultar [`codigo/README.md`](codigo/README.md) y el estándar general de [`../../metodologia/reproducibilidad.md`](../../metodologia/reproducibilidad.md). Añadir Jupyter Notebook cuando facilite la documentación del análisis y sea posible reproducirlo desde un entorno limpio.
+La definición, unidad de medida, cobertura y disponibilidad de cada indicador deberán verificarse antes de su incorporación.
 
-## Trazabilidad de fuentes y evidencia
+## 10. Fuentes de información
 
-El ledger del proyecto está en [`trazabilidad/`](trazabilidad/). Cada dato, afirmación empírica y cita debe tener `source_id`, `evidence_id` y localizador exacto en el original. Los registros relacionan fuentes con variables, figuras y conclusiones. No hay filas de evidencia cargadas mientras no se hayan verificado fuentes originales.
+Se priorizarán bases de datos y publicaciones originales de:
+
+- Banco Central de Chile.
+- Instituto Nacional de Estadísticas (INE).
+- Organización para la Cooperación y el Desarrollo Económicos (OCDE).
+- Banco Mundial.
+- Penn World Table.
+- Comisión Económica para América Latina y el Caribe (CEPAL).
+- Conference Board Total Economy Database.
+- Fondo Monetario Internacional (FMI).
+
+La disponibilidad y comparabilidad de las series deberán comprobarse. La mención de estas fuentes no implica que los datos hayan sido descargados o validados.
+
+## 11. Metodología preliminar
+
+Se utilizará un enfoque cuantitativo, comparativo y documental.
+
+Se consideran las siguientes herramientas:
+
+1. Estadística descriptiva y análisis exploratorio.
+2. Análisis de series temporales.
+3. Contabilidad del crecimiento.
+4. Funciones de producción.
+5. Estimaciones de productividad laboral.
+6. Análisis de productividad total de los factores.
+7. Comparaciones internacionales y sectoriales.
+8. Modelos econométricos, según disponibilidad y propiedades de los datos.
+
+### Contabilidad del crecimiento
+
+Se considerará una función de producción agregada del tipo Cobb-Douglas:
+
+\[
+Y_t=A_t K_t^\alpha L_t^{1-\alpha}
+\]
+
+Donde:
+
+- \(Y_t\): producción agregada.
+- \(A_t\): productividad total de los factores.
+- \(K_t\): capital físico.
+- \(L_t\): trabajo.
+- \(\alpha\): elasticidad de la producción respecto del capital.
+
+La especificación es un punto de partida teórico. Su aplicación empírica requerirá justificar los supuestos, las fuentes y el método de estimación.
+
+## 12. Aplicación al caso chileno
+
+Una línea central de la investigación será estudiar la evolución de la productividad y el crecimiento económico de Chile.
+
+Se analizarán, sujeto a disponibilidad de datos:
+
+- Evolución del PIB real y per cápita.
+- Formación de capital.
+- Productividad laboral.
+- Productividad total de los factores.
+- Transformaciones sectoriales.
+- Inversión e innovación.
+- Diferencias de productividad entre sectores.
+
+Las conclusiones sobre el desempeño de Chile se formularán a partir de resultados verificables y comparaciones metodológicamente consistentes.
+
+## 13. Resultados
+
+**Estado actual:** sin resultados empíricos.
+
+Los resultados se incorporarán después de recopilar, documentar y procesar las bases de datos.
+
+## 14. Limitaciones
+
+- Diferencias metodológicas entre bases de datos.
+- Dificultades de medición del capital y sus servicios.
+- Estimación indirecta de la productividad total de los factores.
+- Problemas de comparabilidad internacional.
+- Posibles cambios estructurales en las series.
+- Limitaciones para identificar relaciones causales.
+
+## 15. Estructura del proyecto
+
+- `datos/`: series estadísticas y documentación de procedencia.
+- `documentos/`: marco teórico y documentos de investigación.
+- `graficos/`: visualizaciones y resultados.
+- `codigo/`: scripts y notebooks reproducibles.
+- `trazabilidad/`: evidencias, fuentes, figuras y conclusiones.
+
+## 16. Criterios de publicación
+
+Los resultados deberán contar con fuentes verificables, metodología documentada, código reproducible y revisión de consistencia.
+
+Se distinguirán claramente los resultados descriptivos, las asociaciones estadísticas y las inferencias causales.
+
+---
+
+**Autor:** Jaime Rehbein  
+**Repositorio:** Investigación Económica — Jaime Rehbein
+
+*Documento de trabajo. Proyecto de investigación en desarrollo.*
