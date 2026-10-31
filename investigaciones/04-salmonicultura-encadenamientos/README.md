@@ -1,84 +1,224 @@
 # Salmonicultura y encadenamientos productivos
+## Estructura sectorial, proveedores y generación de valor económico en la Región de Aysén
 
-- **Autor:** Jaime Rehbein
-- **Área:** Economía e investigación aplicada
-- **País:** Chile
-- **Estado editorial:** Proyecto de investigación
-- **Versión:** Protocolo inicial; sin resultados
-- **Fuentes verificadas incorporadas:** No
+**Autor:** Jaime Rehbein  
+**Área:** Economía industrial, economía regional y desarrollo productivo  
+**Localización:** Región de Aysén, Chile  
+**Estado:** Proyecto de investigación en desarrollo  
+**Versión:** 0.1
 
-> Esta carpeta contiene la estructura inicial del proyecto. No se han incorporado fuentes, datos, resultados ni conclusiones. Los campos pendientes se completarán solo con antecedentes verificables.
+---
 
-## Pregunta de investigación
+## 1. Presentación
 
-Pendiente de formular y delimitar.
+Esta investigación tiene como propósito analizar la actividad salmonicultora y su relación con la estructura productiva de la Región de Aysén.
 
-## Objetivos
+El estudio busca comprender cómo se articula esta actividad con otros sectores económicos mediante relaciones de producción, compras intermedias, contratación de servicios, empleo, inversión y demanda de infraestructura logística.
 
-### Objetivo general
+Desde la perspectiva de la economía regional, resulta relevante examinar en qué medida la actividad genera encadenamientos productivos, oportunidades para empresas locales y valor agregado dentro del territorio.
 
-Pendiente.
+La investigación también considerará las relaciones económicas que conectan la producción regional con proveedores, centros de procesamiento, servicios y mercados externos.
 
-### Objetivos específicos
+## 2. Problema de investigación
 
-Pendientes.
+La salmonicultura constituye una actividad productiva relevante para el análisis de la estructura económica del sur de Chile.
 
-## Hipótesis
+Sin embargo, la importancia de una actividad en términos de producción o exportaciones no permite determinar por sí sola cuánto valor agregado se genera localmente, qué proporción de sus compras se realiza a empresas regionales ni cuáles son sus efectos sobre el empleo y otros sectores productivos.
 
-Pendiente de fundamentar en literatura verificable. No corresponde tratarla como resultado; si el diseño no requiere hipótesis, justificarlo aquí.
+Para comprender su contribución al desarrollo territorial es necesario estudiar las relaciones entre las empresas salmonicultoras y el tejido empresarial regional.
 
-## Revisión de literatura
+El problema de investigación consiste en identificar la profundidad de esos encadenamientos, su distribución territorial y los factores que pueden favorecer o limitar la participación de proveedores locales.
 
-Pendiente. No se incorporan referencias hasta verificarlas en sus fuentes originales.
+## 3. Pregunta principal
 
-## Marco teórico
+¿En qué medida la actividad salmonicultora genera encadenamientos productivos, empleo y valor agregado en la Región de Aysén, y qué factores condicionan su integración con la economía regional?
 
-Pendiente de definir a partir de literatura académica y documentación verificadas.
+## 4. Preguntas específicas
 
-## Metodología
+1. ¿Cuál es la importancia económica de la salmonicultura en la estructura productiva regional?
+2. ¿Qué actividades económicas suministran bienes y servicios a la industria?
+3. ¿Qué proporción de las compras y contrataciones se realiza a proveedores establecidos en Aysén?
+4. ¿Qué características presentan los proveedores regionales?
+5. ¿Cómo se distribuye territorialmente el empleo relacionado con la actividad?
+6. ¿Qué relaciones existen entre salmonicultura, transporte, logística, procesamiento y servicios?
+7. ¿Qué factores limitan la participación de empresas locales en las cadenas de suministro?
+8. ¿Qué oportunidades existen para profundizar los encadenamientos productivos regionales?
 
-Pendiente de especificar: diseño, unidad de análisis, cobertura, estrategia de identificación o estimación, criterios de inclusión y tratamiento de datos faltantes.
+## 5. Objetivo general
 
-## Diccionario de variables
+Analizar la integración de la actividad salmonicultora con la estructura productiva de la Región de Aysén, identificando sus encadenamientos económicos, relaciones con proveedores, efectos sobre el empleo y mecanismos de generación de valor agregado territorial.
 
-Plantilla disponible en [`diccionario-variables.csv`](diccionario-variables.csv). Se completará después de identificar las fuentes y variables observables; incluir `source_ids`, `evidence_ids` y localizador preciso de origen.
+## 6. Objetivos específicos
 
-## Fuentes de información
+- Caracterizar la actividad salmonicultora dentro de la economía regional.
+- Identificar los principales sectores proveedores de bienes y servicios.
+- Examinar las relaciones de abastecimiento entre empresas salmonicultoras y proveedores regionales.
+- Analizar la participación de empresas locales en las cadenas de suministro.
+- Estudiar la distribución territorial del empleo relacionado con la actividad.
+- Examinar las relaciones entre producción, procesamiento, transporte y comercialización.
+- Identificar barreras y oportunidades para el desarrollo de proveedores regionales.
+- Evaluar las posibilidades de profundización de los encadenamientos productivos.
 
-Aún no hay fuentes verificadas para este proyecto. Toda fuente futura deberá registrarse en [`../../fuentes/registro_fuentes.csv`](../../fuentes/registro_fuentes.csv), incluyendo autor/institución, título, fecha, período, cobertura, URL/DOI, consulta, licencia y estado de verificación. Registrar página, tabla o sección de cada dato o afirmación en [`trazabilidad/evidencias.csv`](trazabilidad/evidencias.csv).
+## 7. Hipótesis de trabajo
 
-## Análisis empírico
+**H1.** La contribución de la salmonicultura al desarrollo económico regional depende no solamente de su volumen de producción, sino también de la intensidad de sus relaciones con proveedores y actividades económicas locales.
 
-No iniciado. No hay código, datos ni estimaciones. Si corresponde, el análisis se desarrollará en [`codigo/`](codigo/) y se documentará para su reproducción.
+**H2.** La disponibilidad de capacidades técnicas, financieras y logísticas de las empresas regionales puede influir en su participación en las cadenas de suministro de la industria.
 
-## Resultados
+**H3.** La estructura territorial de los servicios, el procesamiento y el abastecimiento condiciona la distribución regional del valor económico asociado a la actividad.
 
-No hay resultados: el análisis empírico no se ha realizado.
+**H4.** Una mayor integración entre la industria y los proveedores regionales podría ampliar los encadenamientos productivos y las oportunidades de diversificación económica.
 
-## Limitaciones
+Estas hipótesis son provisionales y deberán contrastarse con evidencia verificable. No constituyen conclusiones anticipadas.
 
-El proyecto está en etapa de estructura inicial. Pregunta, disponibilidad y calidad de datos, identificación metodológica y alcance de inferencia están pendientes de evaluación.
+## 8. Marco teórico
 
-## Conclusiones
+La investigación considerará los siguientes enfoques:
 
-No disponibles. No se presentan conclusiones antes de realizar y documentar el análisis.
+### 8.1. Economía industrial
 
-## Bibliografía
+- Estructura de mercado.
+- Organización industrial.
+- Integración vertical.
+- Relaciones entre empresas.
+- Economías de escala y especialización.
 
-Pendiente de referencias verificadas. Cada entrada bibliográfica deberá corresponder a un `source_id` del registro central y estar cotejada con el documento original. No agregar citas generadas o sugeridas que no se hayan confirmado.
+### 8.2. Encadenamientos productivos
 
-## Gráficos
+- Encadenamientos hacia atrás.
+- Encadenamientos hacia adelante.
+- Proveedores intermedios.
+- Cadenas globales de valor.
+- Desarrollo de proveedores locales.
 
-La carpeta [`graficos/`](graficos/) no contiene gráficos. Cada visualización futura deberá indicar fuente, período, unidad, metodología y notas aclaratorias.
+### 8.3. Economía regional
 
-## Documentos
+- Especialización productiva.
+- Concentración sectorial.
+- Desarrollo territorial.
+- Economías de aglomeración.
+- Fugas y circulación territorial del ingreso.
 
-La carpeta [`documentos/`](documentos/) no contiene documentos. Incorporar únicamente originales con procedencia y condiciones de uso comprobadas.
+### 8.4. Desarrollo productivo
 
-## Código reproducible
+- Diversificación económica.
+- Innovación y capacidades empresariales.
+- Productividad sectorial.
+- Capital humano.
+- Desarrollo de pequeñas y medianas empresas.
 
-Consultar [`codigo/README.md`](codigo/README.md) y el estándar general de [`../../metodologia/reproducibilidad.md`](../../metodologia/reproducibilidad.md). Añadir Jupyter Notebook cuando facilite la documentación del análisis y sea posible reproducirlo desde un entorno limpio.
+## 9. Dimensiones e indicadores
 
-## Trazabilidad de fuentes y evidencia
+| Dimensión | Indicadores por investigar |
+|---|---|
+| Producción | Volumen, valor de producción y exportaciones |
+| Valor agregado | Valor agregado sectorial y regional |
+| Proveedores | Número, actividad y localización de proveedores |
+| Compras | Origen geográfico y composición de adquisiciones |
+| Empleo | Ocupación, remuneraciones y especialización laboral |
+| Procesamiento | Localización de instalaciones y actividades |
+| Logística | Transporte, almacenamiento y servicios asociados |
+| Concentración | Participación de empresas y proveedores |
+| Encadenamientos | Compras intermedias y relaciones sectoriales |
 
-El ledger del proyecto está en [`trazabilidad/`](trazabilidad/). Cada dato, afirmación empírica y cita debe tener `source_id`, `evidence_id` y localizador exacto en el original. Los registros relacionan fuentes con variables, figuras y conclusiones. No hay filas de evidencia cargadas mientras no se hayan verificado fuentes originales.
+Cada indicador deberá contar con una definición, unidad, período, cobertura geográfica y fuente documentada.
+
+## 10. Fuentes de información
+
+Se investigará la disponibilidad de información en:
+
+- Servicio Nacional de Pesca y Acuicultura (SERNAPESCA).
+- Instituto Nacional de Estadísticas (INE).
+- Banco Central de Chile.
+- Servicio Nacional de Aduanas.
+- Servicio de Impuestos Internos (SII).
+- Subsecretaría de Pesca y Acuicultura (SUBPESCA).
+- Corporación de Fomento de la Producción (CORFO).
+- Gobierno Regional de Aysén.
+- Comisión Económica para América Latina y el Caribe (CEPAL).
+- Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO).
+
+También podrán considerarse memorias corporativas, informes sectoriales, estudios universitarios y publicaciones científicas.
+
+La inclusión de una institución en esta lista no significa que sus datos hayan sido obtenidos o validados.
+
+## 11. Metodología preliminar
+
+Se propone un enfoque cuantitativo y documental, complementado con análisis sectorial.
+
+Las herramientas contempladas son:
+
+1. Caracterización económica de la actividad.
+2. Análisis de estadísticas de producción y exportación.
+3. Identificación y clasificación de proveedores.
+4. Análisis del origen territorial de las compras.
+5. Estudio de relaciones intersectoriales.
+6. Análisis de empleo y remuneraciones.
+7. Comparaciones temporales y territoriales.
+8. Análisis de concentración de proveedores, cuando existan datos adecuados.
+
+### 11.1. Análisis de encadenamientos
+
+Se buscará identificar las relaciones entre la actividad salmonicultora y los sectores que suministran insumos, bienes y servicios.
+
+Cuando exista una matriz insumo-producto apropiada, se evaluarán indicadores de encadenamientos directos e indirectos.
+
+La metodología de Rasmussen-Hirschman podrá considerarse para estudiar vínculos sectoriales, siempre que la matriz utilizada tenga cobertura y desagregación compatibles con el objetivo de la investigación.
+
+### 11.2. Retención territorial de valor
+
+Se estudiará la localización de proveedores, servicios, procesamiento y otras actividades relacionadas.
+
+No se considerará que la dirección tributaria de una empresa, por sí sola, demuestra dónde se genera su valor agregado. Se documentarán los criterios utilizados para clasificar una actividad como regional.
+
+## 12. Aplicación al caso de Aysén
+
+La investigación prestará especial atención a:
+
+- Distribución territorial de las actividades salmonicultoras.
+- Relaciones económicas con Puerto Aysén y otras localidades.
+- Proveedores regionales y extrarregionales.
+- Servicios de transporte y logística.
+- Procesamiento y comercialización.
+- Capacidades productivas de empresas locales.
+- Oportunidades de diversificación y desarrollo de proveedores.
+
+El análisis buscará distinguir la localización de la producción, la localización de los servicios y el lugar donde se genera el valor agregado.
+
+## 13. Resultados
+
+**Estado actual:** sin resultados empíricos.
+
+Los resultados se incorporarán después de recopilar, verificar y procesar las fuentes correspondientes.
+
+## 14. Limitaciones
+
+- Acceso limitado a información comercial de empresas.
+- Diferencias entre producción, exportaciones y valor agregado.
+- Dificultades para identificar el origen efectivo de los proveedores.
+- Información territorial con distintos niveles de desagregación.
+- Limitaciones para medir los efectos indirectos sobre otros sectores.
+- Diferencias metodológicas entre fuentes públicas y privadas.
+
+## 15. Estructura del proyecto
+
+- `datos/`: bases de datos autorizadas y documentación de procedencia.
+- `documentos/`: marco teórico, antecedentes e informes.
+- `graficos/`: visualizaciones estadísticas y sectoriales.
+- `codigo/`: scripts y notebooks reproducibles.
+- `trazabilidad/`: evidencias, fuentes, figuras y conclusiones.
+
+## 16. Criterios de publicación
+
+Toda afirmación sobre producción, empleo, compras, proveedores o valor agregado deberá respaldarse en una fuente verificable y una metodología explícita.
+
+Se distinguirán los datos observados, las estimaciones, las interpretaciones y las hipótesis.
+
+No se atribuirán efectos económicos causales sin una estrategia de identificación adecuada.
+
+---
+
+**Autor:** Jaime Rehbein  
+**Repositorio:** Investigación Económica — Jaime Rehbein
+
+*Documento de trabajo. Proyecto de investigación en desarrollo.*
